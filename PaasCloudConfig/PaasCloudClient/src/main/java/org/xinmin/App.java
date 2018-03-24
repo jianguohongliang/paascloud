@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 @EnableDiscoveryClient
 public class App 
-
 {
     public static void main( String[] args )
     {

@@ -75,7 +75,8 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
   </properties>
   <modules>
-  	<module>PassCloudServer</module>
+  	<!--<module>PassCloudServer</module>
   	<module>PaasCloudClient</module>
+  	<module>PaasCloudRobbin</module>-->
   </modules>
 </project>
